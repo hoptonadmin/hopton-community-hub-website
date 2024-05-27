@@ -1,5 +1,5 @@
 ---
 name: Richard Bennett
 role: Trustee
-image: /images/wooly.jpg
+image: /images/people.svg
 ---
