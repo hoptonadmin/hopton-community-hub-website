@@ -1,5 +1,5 @@
 ---
 name: Chris Ramster
 role: Vice Chair
-image: /images/wooly.jpg
+image: /images/people.svg
 ---
