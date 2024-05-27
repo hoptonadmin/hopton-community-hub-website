@@ -1,16 +1,16 @@
 # ----
 # Site
 
-title: Cause Template
+title: Hopton Community Hub
 url: https://hoptoncommunityhub.org.uk
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+description: Website of the Hopton Community Hub CIO.
 author:
-  name:
+  name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
