@@ -1,5 +1,5 @@
 ---
 name: Paul Lamond
 role: Chair
-image: /images/wooly.jpg
+image: /images/people.svg
 ---
