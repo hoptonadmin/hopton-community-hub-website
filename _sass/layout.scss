@@ -6,6 +6,11 @@
 	padding: 50px 30px;
 	box-sizing: border-box;
 }
+@media (max-width:420px) {
+	.container-full-mobile {
+	    padding: 30px 0px !important;
+	}
+}
 
 header {
 	padding-bottom: 50px;
